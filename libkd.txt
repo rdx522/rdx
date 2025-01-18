@@ -116,7 +116,7 @@ function lib:CreateWindow(title)
         Position = UDim2.new(0, 3, 0, 3),
         Size = UDim2.new(0, 20, 0, 20),
         BackgroundTransparency = 1,
-        Image = "http://www.roblox.com/asset/?id=94386570903573"
+        Image = "http://www.roblox.com/asset/?id=128111662299100"
     }), Create("UICorner", {
         CornerRadius = UDim.new(0, 3)
     })})
